@@ -1,6 +1,6 @@
 # Rainbow Six Siege Player Stats Website
 
-This is a work in progress website to get Rainbow Six player statistics. It uses Ubisoft's official API.
+This is a work in progress website to get Rainbow Six player statistics which uses Ubisoft's official API.
 
 Before you want to use it you need to make a file named api_ticket in the getStats folder.
 
