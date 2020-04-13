@@ -1,3 +1,5 @@
+Check telegram.....
+
 <?php
   // Headshoot to kill ratio. Most hackers use aimbot.
   if ($headShoots -100 < $kills) {
